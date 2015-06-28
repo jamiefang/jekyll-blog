@@ -2,6 +2,7 @@
 title: My Jekyll Blog
 email: jamie@domain.com
 description: Hello world!
+baseurl: '/jekyll-blog'
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
